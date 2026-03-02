@@ -1,4 +1,4 @@
-# NFADesignExercises
+# NFA Design Exercises #1
 ## Problems
 NFAs that had multiple possible kinds of accepted strings gave me an issue on question number 8. Ideally, I could have just split the strings using epsilon to cover both cases.
 The questions I chose were the first 5 because I'm not creative and just worked until I was done. Maybe I could have done some of the more complex ones but I didn't really have a reason to challenge myself here since we already went over the exercises in class.
